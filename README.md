@@ -17,10 +17,7 @@ I'm Manel a junior web and mobile developer. Currently finishing my master's deg
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Frontend)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Backend)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=ArticlesProjectV2)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MetouiIsraa9&theme=synthwave&repo=Job-Compass-FrontEnd)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=IOSMapProject)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HadjHassineJawher&theme=synthwave&repo=MastereProjectFrontEnd)](https://github.com/anuraghazra/github-readme-stats)
 
