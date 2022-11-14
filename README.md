@@ -7,7 +7,7 @@ I'm Manel a junior web and mobile developer. Currently finishing my master's deg
 
 - 👀 I’m interested in Mobile development, AI, Marketing and entrepreneurship.
 - 🌱 I’m currently learning Flutter and Mobile App Testing.
-- 💞️ I’m looking for an a graduation internship 
+- 💞️ I’m looking for a graduation internship in Mobile development 📱
 
 ### 📈 Some of My Stats
 
