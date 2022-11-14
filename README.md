@@ -57,7 +57,7 @@ I'm Manel a junior web and mobile developer. Currently finishing my master's deg
   
 </ul>
 
-##  Let's connect and build something amazing together
+##  ✨ Let's connect and build something amazing together
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manel-kacem/)
+- Reach me out on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manel-kacem/)
 
