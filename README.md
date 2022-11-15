@@ -23,7 +23,8 @@ I'm Manel a junior web and mobile developer. Currently finishing my master's deg
 
 ### 👩‍💻 Most used programming languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manelk&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manelk&hide=html,css&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### :hammer_and_wrench: Languages and Tools
 
