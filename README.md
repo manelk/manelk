@@ -45,14 +45,15 @@ I'm Manel a junior web and mobile developer. Currently finishing my master's deg
 
 ###  👏 My Achievements and What I’m Proud of!
 <ul>
+  <H5>Date: October 31, 2022 - November 6, 2022</H5>
   <li>Accepted in the program OST Tech Trek; a program made possible by Open Startup in partnership with Columbia Engineering, Columbia Business School and the U.S. Embassy Tunis for tech-savvies and entrepreneurs.<a href="https://www.linkedin.com/posts/manel-kacem_startup-tech-entrepreneurship-activity-6993310092188127232-2D0b?utm_source=share&utm_medium=member_desktop"> Check It Out!</a></li>
-  
+   
+   <H5>Date: March 28, 2022 - April 1, 2022</H5>
    <li>Joined the Annual Investment Meeting sponspored by Impact Partner; an initiative of the UAE Ministry of Economy held in Dubai.<a href="https://www.linkedin.com/posts/manel-kacem_uae-aim2022-expo2020-activity-6917784312532635648-BNcm?utm_source=share&utm_medium=member_desktop"> Check Post From here</a></li>
-  
+   <H5>Date: October, 2020 - September, 2022</H5>
    <li>Scripting, Creating, Editing content (basically TikToking!) in @getskills21 account.<a href="tiktok.com/@getskills21"> Curious? Just click here to see what I've been creating.</a></li>
-  
+  <H5>Date: June 2019 – June 2020</H5>
   <li>Thomas Jefferson Alumna and studied Network Forensics 🤯<a href="[tiktok.com/@getskills21](https://api.badgr.io/public/assertions/bzX3gBRGRwqjW5-n4cNK5g?identity__email=manelkacem11%40gmail.com)"> Thomas Jefferson Scholarship Program Completion Badge</a></li>
-  
 </ul>
 
 ##  ✨ Let’s Connect and Build Something Amazing Together
