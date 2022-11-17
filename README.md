@@ -15,10 +15,10 @@ I'm Manel a junior web and mobile developer. Currently finishing my master's deg
 
 ### 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Frontend)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Backend)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=ArticlesProjectV2)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=IOSMapProject)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Frontend&show_owner="true")](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Backend&show_owner="true")](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=ArticlesProjectV2&show_owner="true")](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=IOSMapProject&show_owner="true")](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HadjHassineJawher&theme=synthwave&repo=MastereProjectFrontEnd)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👩‍💻 Most Used Programming Languages
