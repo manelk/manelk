@@ -21,12 +21,12 @@ I'm Manel a junior web and mobile developer. Currently finishing my master's deg
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=IOSMapProject)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HadjHassineJawher&theme=synthwave&repo=MastereProjectFrontEnd)](https://github.com/anuraghazra/github-readme-stats)
 
-### 👩‍💻 Most used programming languages
+### 👩‍💻 Most Used Programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manelk&hide=html,css&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Languages & Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -43,19 +43,19 @@ I'm Manel a junior web and mobile developer. Currently finishing my master's deg
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-###  👏 My achievements and what I'm proud of!
+###  👏 My Achievements and What I’m Proud of!
 <ul>
-  <li>Took part of the program OST Tech Trek. A program made possible by Open Startup in partnership with Columbia Engineering, Columbia Business School and the U.S. Embassy Tunis.<a href="https://www.linkedin.com/posts/manel-kacem_startup-tech-entrepreneurship-activity-6993310092188127232-2D0b?utm_source=share&utm_medium=member_desktop"> Check It Out!</a></li>
+  <li>Accepted in the program OST Tech Trek; a program made possible by Open Startup in partnership with Columbia Engineering, Columbia Business School and the U.S. Embassy Tunis for tech-savvies and entrepreneurs.<a href="https://www.linkedin.com/posts/manel-kacem_startup-tech-entrepreneurship-activity-6993310092188127232-2D0b?utm_source=share&utm_medium=member_desktop"> Check It Out!</a></li>
   
-   <li>Joined the Annual Investment Meeting last week. An initiative of the UAE Ministry of Economy held in Dubai.<a href="https://www.linkedin.com/posts/manel-kacem_uae-aim2022-expo2020-activity-6917784312532635648-BNcm?utm_source=share&utm_medium=member_desktop"> Check Post From here</a></li>
+   <li>Joined the Annual Investment Meeting sponspored by Impact Partner; an initiative of the UAE Ministry of Economy held in Dubai.<a href="https://www.linkedin.com/posts/manel-kacem_uae-aim2022-expo2020-activity-6917784312532635648-BNcm?utm_source=share&utm_medium=member_desktop"> Check Post From here</a></li>
   
-   <li>Scripting, Creating, Editing content (basically TikToking!) for Skills21 account.<a href="tiktok.com/@getskills21"> Curious? Just click here to see what I've been creating.</a></li>
+   <li>Scripting, Creating, Editing content (basically TikToking!) in @getskills21 account.<a href="tiktok.com/@getskills21"> Curious? Just click here to see what I've been creating.</a></li>
   
   <li>Thomas Jefferson Alumna and studied Network Forensics 🤯<a href="[tiktok.com/@getskills21](https://api.badgr.io/public/assertions/bzX3gBRGRwqjW5-n4cNK5g?identity__email=manelkacem11%40gmail.com)"> Thomas Jefferson Scholarship Program Completion Badge</a></li>
   
 </ul>
 
-##  ✨ Let's connect and build something amazing together
+##  ✨ Let’s Connect and Build Something Amazing Together
 
 - Reach me out on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manel-kacem/)
 
