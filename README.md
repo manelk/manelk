@@ -3,11 +3,10 @@
 
 Hey hey hey 🤩
 
-I'm Manel a junior web and mobile developer. Currently finishing my master's degree in mobile dev. I'm a co-founder of a Tunisian-based ed-tech startup: Skills21.
+I'm Manel a Junior FullStack Developer 🚀
 
-- 👀 I’m interested in Mobile development, AI, Marketing and entrepreneurship.
-- 🌱 I’m currently learning Flutter and Mobile App Testing.
-- 💞️ I’m looking for a graduation internship in Mobile development 📱
+- 📲 Technolgies I work with: Flutter, Node JS, Express, Mongo DB, Vue JS, React JS.  
+- 💞️ I’m looking for an entry level job in Mobile development or frontend dev or backend dev
 
 ### 📈 Some of My Stats
 
