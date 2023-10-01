@@ -93,13 +93,13 @@ I'm Manel a Junior FullStack Developer 🚀
 ### 👏 My Achievements and What I’m Proud of!
 
 <ul>
-  <H5>Date: July 7 </H5>
+  <H5>Date: September 14, 2023 </H5>
   <li>
     Successfully completed the Group Mentorship program, an online asynchronous program hosted by the Women Who Code community, involving guided career-themed group sessions, resource sharing, and informal Q&A sessions.
      <a href="https://www.credential.net/78772810-fd27-4f98-a5c6-05468af9db31">Check my Badge!</a>
   </li>
   
-  <H5>Date: July 7 </H5>
+  <H5>Date: July 7, 2023 </H5>
   <li>
     I graduated with a Master's degree in Mobile Development. 👩‍🎓
   </li>
