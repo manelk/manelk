@@ -6,24 +6,71 @@ Hey hey hey 🤩
 I'm Manel a Junior FullStack Developer 🚀
 
 - 📲 Technolgies I work with: Flutter, Node JS, Express, Mongo DB, Vue JS, React JS.  
-- 💞️ I’m looking for an entry level job in Mobile development or frontend dev or backend dev
+- 💞️ I’m looking for an entry level job in Mobile dev || frontend dev || backend dev
 
 ### 📈 Some of My Stats
 
-![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manelk&show_icons=true&theme=synthwave)
+<div align="center">
+<table>
+  <tr>
+    <td rowspan=2>
+      <a href="https://quine.sh" target="_blank">
+        <img src="https://stats.quine.sh/manelk/github?theme=dark" alt="My GitHub Stats" width="400px">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://quine.sh" target="_blank">
+        <img src="https://stats.quine.sh/manelk/languages-over-time?theme=dark" alt="Torch <3" width="400px">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ### 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Frontend&show_owner="true")](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Backend&show_owner="true")](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=ArticlesProjectV2&show_owner="true")](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=IOSMapProject&show_owner="true")](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HadjHassineJawher&theme=synthwave&repo=MastereProjectFrontEnd)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<table>
+  <tr>
+    <td rowspan=2>
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Frontend&show_owner=%22true%22" width="400px">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan=2>
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Backend&show_owner="true"" width="400px">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td rowspan=2>
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=ArticlesProjectV2&show_owner=%22true%22" width="400px">
+      </a>
+    </td>
+  </tr>
+   <tr>
+    <td rowspan=2>
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HadjHassineJawher&theme=synthwave&repo=MastereProjectFrontEnd" width="400px">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ### 👩‍💻 Most Used Programming Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manelk&hide=html,css&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manelk&hide=html,css&theme=synthwave&layout=compact" width="400px">
+    </a>
+</div>
 
 ### :hammer_and_wrench: Languages & Tools
 
@@ -45,17 +92,30 @@ I'm Manel a Junior FullStack Developer 🚀
 ###  👏 My Achievements and What I’m Proud of!
 <ul>
   <H5>Date: October 31, 2022 - November 6, 2022</H5>
-  <li>Accepted in the program OST Tech Trek; a program made possible by Open Startup in partnership with Columbia Engineering, Columbia Business School and the U.S. Embassy Tunis for tech-savvies and entrepreneurs.<a href="https://www.linkedin.com/posts/manel-kacem_startup-tech-entrepreneurship-activity-6993310092188127232-2D0b?utm_source=share&utm_medium=member_desktop"> Check It Out!</a></li>
+  <li>
+	  Joined the OST Tech Trek Program, a collaborative initiative with Columbia University and the U.S. Embassy in Tunis, where I successfully explored the entrepreneurship and tech ecosystem in New York, conducted interviews with tech entrepreneurs, engaged with tech-focused Columbia University students, and attended events centered around innovation, tech, and research.
+	  <a href="https://www.linkedin.com/posts/manel-kacem_startup-tech-entrepreneurship-activity-6993310092188127232-2D0b?utm_source=share&utm_medium=member_desktop"> Check What I Posted On LinkedIn.</a>
+  </li>
    
    <H5>Date: March 28, 2022 - April 1, 2022</H5>
-   <li>Joined the Annual Investment Meeting sponsored by Impact Partner; an initiative of the UAE Ministry of Economy held in Dubai.<a href="https://www.linkedin.com/posts/manel-kacem_uae-aim2022-expo2020-activity-6917784312532635648-BNcm?utm_source=share&utm_medium=member_desktop"> Check Post From here</a></li>
+   <li>
+	   Represented my co-founded startup, Skills21, among other MENA startups at the Annual Investment Meeting in Dubai.
+	   Engaged in discussions with various investors about Skills21's mission, vision, and potential collaborations.
+	   <a href="https://www.linkedin.com/posts/manel-kacem_uae-aim2022-expo2020-activity-6917784312532635648-BNcm?utm_source=share&utm_medium=member_desktop">Check What I Posted On LinkedIn.</a>
+   </li>
+   
    <H5>Date: October, 2020 - September, 2022</H5>
-   <li>Scripting, Creating, Editing content (basically TikToking!) in @getskills21 account.<a href="tiktok.com/@getskills21"> Curious? Just click here to see what I've been creating.</a></li>
-  <H5>Date: June 2019 – June 2020</H5>
-  <li>Thomas Jefferson Alumna and studied Network Forensics 🤯<a href="[tiktok.com/@getskills21](https://api.badgr.io/public/assertions/bzX3gBRGRwqjW5-n4cNK5g?identity__email=manelkacem11%40gmail.com)"> Thomas Jefferson Scholarship Program Completion Badge</a></li>
+   <li>
+	   Scripting, Creating, Editing content (basically TikToking!) in @getskills21 account.
+	   <a href="tiktok.com/@getskills21"> Curious? Just click here to see what I've been creating.</a>
+   </li>
+   
+   <H5>Date: June 2019 – June 2020</H5>
+   <li>Thomas Jefferson Alumna and studied Network Forensics 🤯
+	   <a href="[tiktok.com/@getskills21](https://api.badgr.io/public/assertions/bzX3gBRGRwqjW5-n4cNK5g?identity__email=manelkacem11%40gmail.com)"> Thomas Jefferson Scholarship Program Completion Badge</a>
+   </li>
 </ul>
 
-##  ✨ Let’s Connect and Build Something Amazing Together
-
-- Reach me out on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manel-kacem/)
+##  ✨ Connect with me on LinkedIn
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manel-kacem/)
 
