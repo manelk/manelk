@@ -5,7 +5,7 @@ Hey hey hey 🤩
 
 I'm Manel a Junior FullStack Developer 🚀
 
-- 📲 Technolgies I work with: Flutter, Node JS, Express, Mongo DB, Vue JS, React JS.  
+- 📲 Technolgies I work with: Flutter, Node JS, Express, Mongo DB, Vue JS, React JS.
 - 💞️ I’m looking for an entry level job in Mobile dev || frontend dev || backend dev
 
 ### 📈 Some of My Stats
@@ -66,6 +66,7 @@ I'm Manel a Junior FullStack Developer 🚀
 </div>
 
 ### 👩‍💻 Most Used Programming Languages
+
 <div align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manelk&hide=html,css&theme=synthwave&layout=compact" width="400px">
@@ -89,8 +90,20 @@ I'm Manel a Junior FullStack Developer 🚀
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-###  👏 My Achievements and What I’m Proud of!
+### 👏 My Achievements and What I’m Proud of!
+
 <ul>
+  <H5>Date: July 7 </H5>
+  <li>
+    Successfully completed the Group Mentorship program, an online asynchronous program hosted by the Women Who Code community, involving guided career-themed group sessions, resource sharing, and informal Q&A sessions.
+     <a href="https://www.credential.net/78772810-fd27-4f98-a5c6-05468af9db31">Check my Badge!</a>
+  </li>
+  
+  <H5>Date: July 7 </H5>
+  <li>
+    I graduated with a Master's degree in Mobile Development. 👩‍🎓
+  </li>
+
   <H5>Date: October 31, 2022 - November 6, 2022</H5>
   <li>
 	  Joined the OST Tech Trek Program, a collaborative initiative with Columbia University and the U.S. Embassy in Tunis, where I successfully explored the entrepreneurship and tech ecosystem in New York, conducted interviews with tech entrepreneurs, engaged with tech-focused Columbia University students, and attended events centered around innovation, tech, and research.
@@ -116,6 +129,6 @@ I'm Manel a Junior FullStack Developer 🚀
    </li>
 </ul>
 
-##  ✨ Connect with me on LinkedIn
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manel-kacem/)
+## ✨ Connect with me on LinkedIn
 
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manel-kacem/)
