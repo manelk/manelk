@@ -1,9 +1,6 @@
-[![ManelGitHubCover](https://user-images.githubusercontent.com/50639782/201551255-b351d40a-6451-4e3f-8cb4-c42e77956582.png)
-](https://www.linkedin.com/in/manel-kacem/)
+### Hey hey hey 🤩
 
-Hey hey hey 🤩
-
-I'm Manel a Junior FullStack Developer 🚀
+### I'm Manel a Junior FullStack Developer 🚀
 
 - 📲 Technolgies I work with: Flutter, Node JS, Express, Mongo DB, Vue JS, React JS.
 - 💞️ I’m looking for an entry level job in Mobile dev || frontend dev || backend dev
