@@ -2,9 +2,9 @@
 
 ### Hey hey hey 🤩
 
-### I'm Manel a Junior FullStack Developer 🚀
+### I'm Manel a Junior Full Stack Developer 🚀
 
-📲 Technolgies I work with: Flutter, Node JS, Express, Mongo DB, Vue JS, React JS.
+📲 Technolgies/Frameworks I work with: Flutter, Node JS, Express, Mongo DB, Vue JS. <br>
 💞️ I’m looking for an entry level job in Mobile dev || frontend dev || backend dev
 
 ### 📈 Some of My Stats
