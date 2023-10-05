@@ -1,6 +1,7 @@
 <div align="center">
 
 ### Hey hey hey 🤩
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manel-kacem) 
 
 ### I'm Manel a Junior Full Stack Developer 🚀
 
@@ -117,6 +118,5 @@
 	   <a href="[tiktok.com/@getskills21](https://api.badgr.io/public/assertions/bzX3gBRGRwqjW5-n4cNK5g?identity__email=manelkacem11%40gmail.com)"> Thomas Jefferson Scholarship Program Completion Badge</a>
 
 ## ✨ Connect with me on LinkedIn
-
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manel-kacem/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manel-kacem) 
 </div>
