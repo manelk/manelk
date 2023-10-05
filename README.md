@@ -1,9 +1,11 @@
+<div align="center">
+
 ### Hey hey hey 🤩
 
 ### I'm Manel a Junior FullStack Developer 🚀
 
-- 📲 Technolgies I work with: Flutter, Node JS, Express, Mongo DB, Vue JS, React JS.
-- 💞️ I’m looking for an entry level job in Mobile dev || frontend dev || backend dev
+📲 Technolgies I work with: Flutter, Node JS, Express, Mongo DB, Vue JS, React JS.
+💞️ I’m looking for an entry level job in Mobile dev || frontend dev || backend dev
 
 ### 📈 Some of My Stats
 
@@ -72,7 +74,7 @@
 
 ### :hammer_and_wrench: Languages & Tools
 
-<div>
+<div style="display: flex; align-items: flex-start; align: center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -87,45 +89,34 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
 ### 👏 My Achievements and What I’m Proud of!
 
-<ul>
   <H5>Date: September 14, 2023 </H5>
-  <li>
     Successfully completed the Group Mentorship program, an online asynchronous program hosted by the Women Who Code community, involving guided career-themed group sessions, resource sharing, and informal Q&A sessions.
      <a href="https://www.credential.net/78772810-fd27-4f98-a5c6-05468af9db31">Check my Badge!</a>
-  </li>
   
   <H5>Date: July 7, 2023 </H5>
-  <li>
     I graduated with a Master's degree in Mobile Development. 👩‍🎓
-  </li>
 
   <H5>Date: October 31, 2022 - November 6, 2022</H5>
-  <li>
 	  Joined the OST Tech Trek Program, a collaborative initiative with Columbia University and the U.S. Embassy in Tunis, where I successfully explored the entrepreneurship and tech ecosystem in New York, conducted interviews with tech entrepreneurs, engaged with tech-focused Columbia University students, and attended events centered around innovation, tech, and research.
 	  <a href="https://www.linkedin.com/posts/manel-kacem_startup-tech-entrepreneurship-activity-6993310092188127232-2D0b?utm_source=share&utm_medium=member_desktop"> Check What I Posted On LinkedIn.</a>
-  </li>
    
    <H5>Date: March 28, 2022 - April 1, 2022</H5>
-   <li>
 	   Represented my co-founded startup, Skills21, among other MENA startups at the Annual Investment Meeting in Dubai.
 	   Engaged in discussions with various investors about Skills21's mission, vision, and potential collaborations.
 	   <a href="https://www.linkedin.com/posts/manel-kacem_uae-aim2022-expo2020-activity-6917784312532635648-BNcm?utm_source=share&utm_medium=member_desktop">Check What I Posted On LinkedIn.</a>
-   </li>
    
    <H5>Date: October, 2020 - September, 2022</H5>
-   <li>
 	   Scripting, Creating, Editing content (basically TikToking!) in @getskills21 account.
 	   <a href="tiktok.com/@getskills21"> Curious? Just click here to see what I've been creating.</a>
-   </li>
    
    <H5>Date: June 2019 – June 2020</H5>
-   <li>Thomas Jefferson Alumna and studied Network Forensics 🤯
+   Thomas Jefferson Alumna and studied Network Forensics 🤯
 	   <a href="[tiktok.com/@getskills21](https://api.badgr.io/public/assertions/bzX3gBRGRwqjW5-n4cNK5g?identity__email=manelkacem11%40gmail.com)"> Thomas Jefferson Scholarship Program Completion Badge</a>
-   </li>
-</ul>
 
 ## ✨ Connect with me on LinkedIn
 
 [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manel-kacem/)
+</div>
