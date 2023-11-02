@@ -6,7 +6,8 @@
 ### I'm Manel a Junior Full Stack Developer 🚀
 
 📲 Technolgies/Frameworks I work with: Flutter, Node JS, Express, Mongo DB, Vue JS. <br>
-💞️ I’m looking for an entry level job in Mobile dev || Frontend dev || Backend dev
+💞️ I’m looking for an entry level job in Mobile dev || Frontend dev || Backend dev <br>
+➕ Other knowledge: Scrum, Agile, Azure DevOps, MVC and clean architecture 
 
 ### 📈 Some of My Stats
 
