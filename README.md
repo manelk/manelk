@@ -30,41 +30,6 @@
 </table>
 </div>
 
-### 📌 Pinned Repositories
-
-<div align="center">
-<table>
-  <tr>
-    <td rowspan=2>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Frontend&show_owner=%22true%22" width="400px">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan=2>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=Carpool-App-Backend&show_owner="true"" width="400px">
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td rowspan=2>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=manelk&theme=synthwave&repo=ArticlesProjectV2&show_owner=%22true%22" width="400px">
-      </a>
-    </td>
-  </tr>
-   <tr>
-    <td rowspan=2>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HadjHassineJawher&theme=synthwave&repo=MastereProjectFrontEnd" width="400px">
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
 
 ### 👩‍💻 Most Used Programming Languages
 
